@@ -39,7 +39,7 @@ Frontend Mentor | Recipe Page
 
 ### What I learned
 
-This project helped me to get more experience on design as a beginer, and learning some news techniques working on tables, media query and so on
+This project helped me to get more experience on design as a beginer, building a responsive design using media query, and learning some news techniques working on tables, media query and so on
 
 ### Continued development
 
