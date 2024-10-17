@@ -26,8 +26,8 @@ Frontend Mentor | Recipe Page
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/masalatimothy/recipe-main-page)
+- Live Site URL: (https://masalatimothy.github.io/recipe-main-page/)
 
 ## My process
 
@@ -51,9 +51,9 @@ This project helped me to rate  or test my studies until now, so I can continue 
 
 ## Author
 
-- GitHub - [masala timothy](https://www.github.io/masalatimothy)
+- GitHub - [masala mutombo timothy](https://www.github.io/masalatimothy)
 - Frontend Mentor - [@masalatimothy](https://www.frontendmentor.io/profile/masalatimothy)
 
 ## Acknowledgments
 
-Thankyou to FrontEnd Mentor for this challenge and providing all the files needed to build this project. That was so important for me to improve my aknowlegments and I learnt some new techniques building this project. 
+Thank you to FrontEnd Mentor for this challenge and providing all the files needed to build this project. That was so important for me to improve my aknowlegments and I learnt some new techniques building this project. 
